@@ -1,0 +1,9 @@
+Flask==3.0.3
+requests==2.31.0
+python-dotenv==1.0.1
+SQLAlchemy==2.0.27
+psycopg2-binary==2.9.9
+pandas==2.0.3
+pytest==8.0.0
+datetime==5.5.0
+kafka-python==2.0.2
